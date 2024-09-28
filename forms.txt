@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> forms</title>
+
+</head>
+
+<body>
+our college<img src="https://th.bing.com/th/id/OIP.Y6ZbFcOq_fCXsWAoWp-ZqwAAAA?w=115&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"><style="weidth":4px; "height":4px;>
+
+<h1 style="color:green; text-align:center;"> hello to our website </h1>
+                                                                                         
+
+ <ul><li>one</li><li>two</li><li>three</li></ul>
+ <ol><li>a</li><li>b</li><ul><li>hello</li><li>goodbay</li></ul><li>c</li></ol>
+<!-- link comment -->
+<li><a href="https://lms.ksu.edu.sa/">BlackBoard</a></li>
+
+
+
+<form>
+
+
+ <h2 style="color:black; text-align=left;">first name:</h2>
+first name <input type="sign in">
+<input type="text" placeholder= "firts name" name="first">
+
+password <input type="password">
+<h3 style="color:black; text-align=left;">pass</h3>
+<input type="password" placeholder="password" name="password">
+
+<div>
+favorite color:
+<input name ="color" type="radio" value="blue">Blue
+<input name ="color" type="radio" value="green">Green
+<input name ="color" type="radio" value="red">Red
+</div>
+
+<input type="submit">
+
+</form>
+</body>
+
+
+
+
+</html>
